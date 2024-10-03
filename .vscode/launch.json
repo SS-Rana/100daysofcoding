@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "s:/100daysofcoding/Day29",
-      "program": "s:/100daysofcoding/Day29/build/Debug/outDebug",
+      "cwd": "s:/100daysofcoding/Day32 to 35(c practice)/Day35",
+      "program": "s:/100daysofcoding/Day32 to 35(c practice)/Day35/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
